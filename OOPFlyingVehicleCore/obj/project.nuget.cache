@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9Y0KUBNgoiwvdPsLMhjvQVYbCMSrPD38hLx9HO1TgOA1qZYoGQF0RkSGtl4piOKfN1VN2NpcFevZKYPNbvqiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gamer\\source\\repos\\aerialveihicletestfirst-AaronSirico-Columbia\\OOPFlyingVehicleCore\\OOPFlyingVehicleCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gamer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Gamer\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
